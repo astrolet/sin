@@ -1,0 +1,32 @@
+{ "name": "sin"
+, "description": "naming space stuff through time"
+, "keywords": [ "astrology", "ephemeris", "data" ]
+, "version": "0.0.1-1"
+, "homepage": "http://astrolin.com/sin"
+, "repository":
+  { "type": "git"
+  , "url": "git://github.com/astrolet/lin.git"
+  }
+, "bugs":
+  { "mail": "support@astrolet.net"
+  , "web" : "https://www.pivotaltracker.com/projects/203533"
+  }
+, "author": "Orlin M Bozhinov <orlin@astrolet.net> (http://soundsapiens.com)"
+, "contributors": []
+, "files": [ "data" ]
+, "dependencies": {}
+, "devDependencies": {}
+, "licenses":
+  [ { "type": "Unlicense"
+    , "url" : "http://unlicense.org/"
+    }
+    ,
+    { "type": "GPL"
+    , "url" : "http://github.com/astrolet/eden/raw/master/LICENSE"
+    }
+    ,
+    { "type": "Swiss Ephemeris"
+    , "url" : "http://github.com/astrolet/eden/raw/master/LICENSE"
+    }
+  ]
+}
