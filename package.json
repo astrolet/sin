@@ -5,7 +5,7 @@
 , "homepage": "http://astrolin.com/sin"
 , "repository":
   { "type": "git"
-  , "url": "git://github.com/astrolet/lin.git"
+  , "url": "git://github.com/astrolet/sin.git"
   }
 , "bugs":
   { "mail": "support@astrolet.net"
