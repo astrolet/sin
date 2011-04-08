@@ -1,0 +1,20 @@
+// TODO: check for one-word-names (for all) in Solar Fire
+
+// swe.hsys
+{ "P": "Placidus"
+, "K": "Koch"
+, "O": "Porphyrius"
+, "R": "Regiomontanus"
+, "C": "Campanus"
+, "A": "Ascendant"
+, "E": "Equal"
+, "V": "Vehlow equal"
+, "W": "Whole sign"
+, "X": "axial rotation system"
+, "H": "azimuthal or horizontal system"
+, "T": "Polich/Page ('topocentric' system)"
+, "B": "Alcabitus"
+, "M": "Morinus"
+, "U": "Krusinski-Pisa"
+, "G": "Gauquelin sectors"
+}
