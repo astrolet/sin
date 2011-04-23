@@ -1,15 +1,15 @@
 { "name": "gravity"
 , "description": "naming space stuff through time"
 , "keywords": [ "astrology", "ephemeris", "data" ]
-, "version": "0.0.1-1"
-, "homepage": "http://astrolin.com/sin"
+, "version": "0.0.1-2"
+, "homepage": "http://astrolin.com/to/sin"
 , "repository":
   { "type": "git"
   , "url": "git://github.com/astrolet/sin.git"
   }
 , "bugs":
   { "mail": "support@astrolet.net"
-  , "web" : "https://www.pivotaltracker.com/projects/203533"
+  , "web" : "https://github.com/astrolet/eden/issues"
   }
 , "author": "Orlin M Bozhinov <orlin@astrolet.net> (http://soundsapiens.com)"
 , "contributors": []
