@@ -1,6 +1,6 @@
-# Sin -- Adam's observatory, naming space stuff
+# Sin -- is naming space time stuff
 
-Partial [ephemeris data](http://www.astro.com/ftp/swisseph/ephe/) for [Eden](https://github.com/astrolet/eden).
+Partial [ephemeris data](http://www.astro.com/ftp/swisseph/ephe/) for [Precious](http://astrolin.com/to/precious) / [Eden](http://astrolin.com/to/eden).
 
 ## License
 
