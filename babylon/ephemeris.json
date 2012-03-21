@@ -1,7 +1,0 @@
-{ type: "object"
-, properties:
-  { things
-  , minors
-  }
-, additionalProperties: true
-}
