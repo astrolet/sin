@@ -1,7 +1,7 @@
 { "name": "gravity"
-, "description": "naming space stuff through time"
+, "description": "namely space stuff through time"
 , "keywords": [ "astrology", "ephemeris", "data" ]
-, "version": "0.0.1-3"
+, "version": "0.0.1-4"
 , "homepage": "http://astrolin.com/to/sin"
 , "repository":
   { "type": "git"
