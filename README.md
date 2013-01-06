@@ -1,4 +1,4 @@
-# Sin -- is naming space time stuff
+# sin -- is naming space time stuff
 
 Partial [ephemeris data](http://www.astro.com/ftp/swisseph/ephe/) for [Precious](http://astrolin.com/to/precious) / [Eden](http://astrolin.com/to/eden).
 
